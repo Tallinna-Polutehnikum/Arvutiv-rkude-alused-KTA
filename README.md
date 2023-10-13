@@ -1,5 +1,5 @@
 # Arvutivõrkude alused
-**Aine:** Arvutivõrkude alused tarkvaraarendajatele
+**Teema:** Arvutivõrkude alused tarkvaraarendajatele
 
 **Moodul:** IT-valdkonna alusteadmised
 
