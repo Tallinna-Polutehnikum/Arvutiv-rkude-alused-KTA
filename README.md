@@ -8,9 +8,9 @@
 **Iseseisev töö:** 14 tundi
 
 **Toimumiskorrad:**
-- 1. nädal: 4 tundi
-- 2. nädal: 4 tundi
-- 3. nädal: 4 tundi
+1. nädal: 4 tundi
+2. nädal: 4 tundi
+3. nädal: 4 tundi
 
 **Eesmärk:** Õpetusega taotletakse, et õpilane omandab IT-valdkonna rakendustarkvara, arvutivõrkude, riistvara ja operatsioonisüsteemide alusteadmised.
 
