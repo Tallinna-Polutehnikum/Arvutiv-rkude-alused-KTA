@@ -37,6 +37,7 @@
 **II. Arvutivõrkude toimimise aluspõhimõtted (3 tundi)**
 - Andmeedastuse põhimõtted.
 - OSI mudel ja selle kihtide funktsioonid.
+- https://github.com/Tallinna-Polutehnikum/Arvutiv-rkude-alused-KTA/blob/main/esitlused/02%20-%20arvutiv%C3%B5rkude%20toimimise%20alused.md
 
 **III. Arvutivõrkude seadmed ja nende kasutusvaldkonnad (3 tundi)**
 - Ruuterid, lülitid ja muud seadmed.
