@@ -60,4 +60,3 @@
 - Kirjalik test, mis hõlmab ainekavas sätestatud õpiväljundeid ja hindamiskriteeriume.
 - Iseseiseva töö projekti esitlus ja aruande hindamine.
 
-Ainekaardi alusel saate koostada üksikasjalikumad tunnikavad igale õppekorrusele vastavalt teemade jaotusele ning õppematerjalidele.
