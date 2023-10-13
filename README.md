@@ -32,6 +32,7 @@
 **I. Sissejuhatus arvutivõrkudesse (2 tundi)**
 - Mis on arvutivõrk?
 - Arvutivõrkude tähtsus tarkvaraarendajatele.
+- https://github.com/Tallinna-Polutehnikum/Arvutiv-rkude-alused-KTA/blob/main/esitlused/01-sissejuhatus.md
 
 **II. Arvutivõrkude toimimise aluspõhimõtted (3 tundi)**
 - Andmeedastuse põhimõtted.
