@@ -12,6 +12,13 @@
 2. nädal: 4 tundi
 3. nädal: 4 tundi
 
+Õpetaja:
+Toivo Pärnpuu
+
+IT ja telekommunikatsiooni osakonna juhataja
+
+Kogemus: arvutivõrkude haldus (Cisco, HP, Fortigate, Mikrotik, Unifi, Huawei), Linuxi administreerimine, Windowsi administreerimine, pilvetehnoloogiad.
+
 **Mooduli eesmärk:** Õpetusega taotletakse, et õpilane omandab IT-valdkonna rakendustarkvara, arvutivõrkude, riistvara ja operatsioonisüsteemide alusteadmised.
 
 **Õpiväljundid:**
